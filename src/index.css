@@ -1,0 +1,20 @@
+.sidebar {
+  width: 70px;
+  height: 100vh;
+}
+
+.sidebar-icon {
+  font-size: 24px;
+  color: #606060;
+  cursor: pointer;
+}
+
+.sidebar-icon:hover {
+  color: #000;
+}
+
+.thumbnail {
+  width: 120px;
+  height: 70px;
+  object-fit: cover;
+}
