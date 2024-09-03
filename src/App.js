@@ -6,12 +6,12 @@ import logo from './logo.jpg'; // Import the image file
 
 function App() {
     const ytvideo = [
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
-        'https://www.youtube.com/embed/cqdK--33sVI?si=D2f2VoEJa6_i5SYp',
+        'https://www.youtube.com/embed/Dkk9gvTmCXY?si=g94hDQ5CCU1HMjX4',
+        'https://www.youtube.com/embed/dfnCAmr569k?si=vYfVKpf3ZRm5VLp1',
+        'https://www.youtube.com/embed/gNi_6U5Pm_o?si=10jrs5mJXjlUO5-S',
+        'https://www.youtube.com/embed/Odh9ddPUkEY?si=dJtaQgI52Dh8rbcd',
+        'https://www.youtube.com/embed/yzTuBuRdAyA?si=X59s1AANgx6ZM57g',
+        'https://www.youtube.com/embed/X7aF3nZOS98?si=JboXq9Jsq_n37tmn',
     ];
 
     return (
